@@ -38,25 +38,25 @@ Aşağıdaki ekran görüntüleri uygulamanın baştan sona tüm akışını ve 
 ### 🌟 1. Ana Ekran, Hızlı Giriş ve Grafikler
 | 01. Gösterge Paneli | 02. Kilo & Bel Ekleme | 03. Grafikler & Kıyas |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/01_dashboard.png" width="260" alt="01. Ana Sayfa Gösterge Paneli"/> | <img src="docs/screenshots/02_kilo_bel_ekle.png" width="260" alt="02. Kilo ve Bel Ekleme"/> | <img src="docs/screenshots/03_grafikler.png" width="260" alt="03. Çizgi ve Çift Bar Grafikler"/> |
+| <img src="docs/screenshots/01_dashboard.webp" width="260" alt="01. Ana Sayfa Gösterge Paneli"/> | <img src="docs/screenshots/02_kilo_bel_ekle.webp" width="260" alt="02. Kilo ve Bel Ekleme"/> | <img src="docs/screenshots/03_grafikler.webp" width="260" alt="03. Çizgi ve Çift Bar Grafikler"/> |
 | *Günlük tartı, bel farkı, su sayacı, streak ve 7 günlük sparkline* | *Sabah/akşam, hassas kg/cm seçimi, duygu etiketleri ve not alanı* | *Trend eğrisi ve sabah-akşam ölçümlerini yan yana kıyaslayan grafik* |
 
 ### 📅 2. Geçmiş & Raporlama (Sayfa Akışları)
 | 04. Geçmiş (Kayıtlar) | 04. Geçmiş (Devamı & Takvim) | 05. Hedef & Raporlar |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/04_gecmis.png" width="260" alt="04. Geçmiş Kayıtlar"/> | <img src="docs/screenshots/04_gecmis_devam.png" width="260" alt="04. Geçmiş Kayıtlar Devamı"/> | <img src="docs/screenshots/05_raporlar.png" width="260" alt="05. Hedef ve Rapor Ekranı"/> |
+| <img src="docs/screenshots/04_gecmis.webp" width="260" alt="04. Geçmiş Kayıtlar"/> | <img src="docs/screenshots/04_gecmis_devam.webp" width="260" alt="04. Geçmiş Kayıtlar Devamı"/> | <img src="docs/screenshots/05_raporlar.webp" width="260" alt="05. Hedef ve Rapor Ekranı"/> |
 | *Kronolojik ölçüm listesi, bel rozetleri ve günlük farklar* | *Geçmiş günlerin detayları, etiketler ve takvim görünümü* | *Kalan kilo halkası, haftalık/aylık tempo ve etiket analizleri* |
 
 ### 🧠 3. Vücut Analizleri & Görünüm Seçenekleri
 | 06. Hesap & Analiz (Üst) | 06. Hesap & Analiz (Devam) | 07. Görünüm & Temalar |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/06_hesap_analiz.png" width="260" alt="06. Vücut Hesaplama ve Analizler"/> | <img src="docs/screenshots/06_hesap_analiz_devam.png" width="260" alt="06. Hesaplama Devamı BMR ve Makrolar"/> | <img src="docs/screenshots/07_gorunum_tema.png" width="260" alt="07. Tema ve Renk Paleti"/> |
+| <img src="docs/screenshots/06_hesap_analiz.webp" width="260" alt="06. Vücut Hesaplama ve Analizler"/> | <img src="docs/screenshots/06_hesap_analiz_devam.webp" width="260" alt="06. Hesaplama Devamı BMR ve Makrolar"/> | <img src="docs/screenshots/07_gorunum_tema.webp" width="260" alt="07. Tema ve Renk Paleti"/> |
 | *VKİ, US Navy yağ oranı ve ideal kilo aralığı* | *BMR, TDEE kalori ihtiyacı, makro dağılımı ve hedef projeksiyonu* | *8 uyumlu renk paleti (Zümrüt, Gece Mavisi, Turuncu...) ve Koyu Mod* |
 
 ### ⚙️ 4. Dil Desteği & Ayarlar
 | 08. Çoklu Dil Desteği | 09. Ayarlar & Bildirimler | 09. Ayarlar (Devam & Excel) |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/08_dil_secimi.png" width="260" alt="08. 16 Dil Seçimi"/> | <img src="docs/screenshots/09_ayarlar.png" width="260" alt="09. Ayarlar ve Hatırlatıcılar"/> | <img src="docs/screenshots/09_ayarlar_devam.png" width="260" alt="09. Excel ve Veri Yönetimi"/> |
+| <img src="docs/screenshots/08_dil_secimi.webp" width="260" alt="08. 16 Dil Seçimi"/> | <img src="docs/screenshots/09_ayarlar.webp" width="260" alt="09. Ayarlar ve Hatırlatıcılar"/> | <img src="docs/screenshots/09_ayarlar_devam.webp" width="260" alt="09. Excel ve Veri Yönetimi"/> |
 | *16 uluslararası dil desteği, ülke bayrakları ve anında değişim* | *Sabah ve akşam tartı hatırlatıcı bildirim saatleri* | *Tek tıkla Excel (.xlsx) ihracı ve yerel veri yönetimi* |
 
 ---
@@ -116,18 +116,18 @@ Ekran görüntüleri `docs/screenshots/` klasöründe aşağıdaki yapıyla yer 
 
 | Dosya Adı | Açıklama |
 |:---|:---|
-| `docs/screenshots/01_dashboard.png` | **Ana Sayfa:** Günlük kilo, fark kartı, su sayacı ve 7 günlük mini trend grafiği. |
-| `docs/screenshots/02_kilo_bel_ekle.png` | **Kilo Ekleme Modalı:** Sabah/Akşam seçimi, kilo ve bel ölçüsü, duygu/durum etiketleri. |
-| `docs/screenshots/03_grafikler.png` | **Grafikler:** Çizgi grafik ve sabah-akşam ölçümlerini yan yana gösteren çift bar grafik. |
-| `docs/screenshots/04_gecmis.png` | **Geçmiş (Üst Kısım):** Tarih sırasıyla listelenen ölçüm kartları ve bel ölçüsü rozetleri. |
-| `docs/screenshots/04_gecmis_devam.png` | **Geçmiş (Devamı):** Ölçüm kartlarının devamı, notlar, filtreler ve takvim görünümü. |
-| `docs/screenshots/05_raporlar.png` | **Raporlar:** Kalan kilo halkası, haftalık/aylık tempo ve etiket bazlı analizler. |
-| `docs/screenshots/06_hesap_analiz.png` | **Hesap (Üst Kısım):** VKİ, ideal kilo aralığı ve US Navy vücut yağ oranı. |
-| `docs/screenshots/06_hesap_analiz_devam.png` | **Hesap (Devamı):** BMR, TDEE, günlük makro besin planlayıcı ve kilo projeksiyon simülatörü. |
-| `docs/screenshots/07_gorunum_tema.png` | **Tema Menüsü:** Açık/Koyu mod seçenekleri ve 8 uyumlu renk paleti listesi. |
-| `docs/screenshots/08_dil_secimi.png` | **Dil Menüsü:** 16 dil ve bayrakların yer aldığı canlı dil seçim penceresi. |
-| `docs/screenshots/09_ayarlar.png` | **Ayarlar (Üst Kısım):** Sabah ve akşam tartı hatırlatıcı bildirim saatleri ve profil bilgileri. |
-| `docs/screenshots/09_ayarlar_devam.png` | **Ayarlar (Devamı):** Excel (.xlsx) dışa aktarma, veri yedekleme ve sıfırlama alanı. |
+| `docs/screenshots/01_dashboard.webp` | **Ana Sayfa:** Günlük kilo, fark kartı, su sayacı ve 7 günlük mini trend grafiği. |
+| `docs/screenshots/02_kilo_bel_ekle.webp` | **Kilo Ekleme Modalı:** Sabah/Akşam seçimi, kilo ve bel ölçüsü, duygu/durum etiketleri. |
+| `docs/screenshots/03_grafikler.webp` | **Grafikler:** Çizgi grafik ve sabah-akşam ölçümlerini yan yana gösteren çift bar grafik. |
+| `docs/screenshots/04_gecmis.webp` | **Geçmiş (Üst Kısım):** Tarih sırasıyla listelenen ölçüm kartları ve bel ölçüsü rozetleri. |
+| `docs/screenshots/04_gecmis_devam.webp` | **Geçmiş (Devamı):** Ölçüm kartlarının devamı, notlar, filtreler ve takvim görünümü. |
+| `docs/screenshots/05_raporlar.webp` | **Raporlar:** Kalan kilo halkası, haftalık/aylık tempo ve etiket bazlı analizler. |
+| `docs/screenshots/06_hesap_analiz.webp` | **Hesap (Üst Kısım):** VKİ, ideal kilo aralığı ve US Navy vücut yağ oranı. |
+| `docs/screenshots/06_hesap_analiz_devam.webp` | **Hesap (Devamı):** BMR, TDEE, günlük makro besin planlayıcı ve kilo projeksiyon simülatörü. |
+| `docs/screenshots/07_gorunum_tema.webp` | **Tema Menüsü:** Açık/Koyu mod seçenekleri ve 8 uyumlu renk paleti listesi. |
+| `docs/screenshots/08_dil_secimi.webp` | **Dil Menüsü:** 16 dil ve bayrakların yer aldığı canlı dil seçim penceresi. |
+| `docs/screenshots/09_ayarlar.webp` | **Ayarlar (Üst Kısım):** Sabah ve akşam tartı hatırlatıcı bildirim saatleri ve profil bilgileri. |
+| `docs/screenshots/09_ayarlar_devam.webp` | **Ayarlar (Devamı):** Excel (.xlsx) dışa aktarma, veri yedekleme ve sıfırlama alanı. |
 
 ---
 
