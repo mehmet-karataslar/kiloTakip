@@ -1,7 +1,7 @@
 # ⚖️ Kilo & Bel Takip (FitTrack Pro)
 
 <p align="center">
-  <img src="assets/icon.png" width="120" alt="Kilo & Bel Takip Logo" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.18);" />
+  <img src="docs/logo.webp" width="160" alt="Kilo & Bel Takip Logo" style="border-radius: 36px; box-shadow: 0 12px 36px rgba(0,0,0,0.22);" />
 </p>
 
 <p align="center">
@@ -36,28 +36,128 @@ Uygulamanın hazır derlenmiş en güncel Android APK dosyasını doğrudan indi
 Aşağıdaki ekran görüntüleri uygulamanın baştan sona tüm akışını ve devam sayfalarını temsil etmektedir:
 
 ### 🌟 1. Ana Ekran, Hızlı Giriş ve Grafikler
-| 01. Gösterge Paneli | 02. Kilo & Bel Ekleme | 03. Grafikler & Kıyas |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/01_dashboard.webp" width="260" alt="01. Ana Sayfa Gösterge Paneli"/> | <img src="docs/screenshots/02_kilo_bel_ekle.webp" width="260" alt="02. Kilo ve Bel Ekleme"/> | <img src="docs/screenshots/03_grafikler.webp" width="260" alt="03. Çizgi ve Çift Bar Grafikler"/> |
-| *Günlük tartı, bel farkı, su sayacı, streak ve 7 günlük sparkline* | *Sabah/akşam, hassas kg/cm seçimi, duygu etiketleri ve not alanı* | *Trend eğrisi ve sabah-akşam ölçümlerini yan yana kıyaslayan grafik* |
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33.33%" align="center">01. Gösterge Paneli</th>
+      <th width="33.33%" align="center">02. Kilo & Bel Ekleme</th>
+      <th width="33.33%" align="center">03. Grafikler & Kıyas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/01_dashboard.webp" width="240" alt="01. Ana Sayfa Gösterge Paneli" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Günlük tartı, bel farkı, su sayacı, streak ve 7 günlük sparkline</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/02_kilo_bel_ekle.webp" width="240" alt="02. Kilo ve Bel Ekleme" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Sabah/akşam, hassas kg/cm seçimi, duygu etiketleri ve not alanı</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/03_grafikler.webp" width="240" alt="03. Çizgi ve Çift Bar Grafikler" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Trend eğrisi ve sabah-akşam ölçümlerini yan yana kıyaslayan grafik</i></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📅 2. Geçmiş & Raporlama (Sayfa Akışları)
-| 04. Geçmiş (Kayıtlar) | 04. Geçmiş (Devamı & Takvim) | 05. Hedef & Raporlar |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/04_gecmis.webp" width="260" alt="04. Geçmiş Kayıtlar"/> | <img src="docs/screenshots/04_gecmis_devam.webp" width="260" alt="04. Geçmiş Kayıtlar Devamı"/> | <img src="docs/screenshots/05_raporlar.webp" width="260" alt="05. Hedef ve Rapor Ekranı"/> |
-| *Kronolojik ölçüm listesi, bel rozetleri ve günlük farklar* | *Geçmiş günlerin detayları, etiketler ve takvim görünümü* | *Kalan kilo halkası, haftalık/aylık tempo ve etiket analizleri* |
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33.33%" align="center">04. Geçmiş (Kayıtlar)</th>
+      <th width="33.33%" align="center">04. Geçmiş (Devamı & Takvim)</th>
+      <th width="33.33%" align="center">05. Hedef & Raporlar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/04_gecmis.webp" width="240" alt="04. Geçmiş Kayıtlar" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Kronolojik ölçüm listesi, bel rozetleri ve günlük farklar</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/04_gecmis_devam.webp" width="240" alt="04. Geçmiş Kayıtlar Devamı" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Geçmiş günlerin detayları, etiketler ve takvim görünümü</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/05_raporlar.webp" width="240" alt="05. Hedef ve Rapor Ekranı" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Kalan kilo halkası, haftalık/aylık tempo ve etiket analizleri</i></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🧠 3. Vücut Analizleri & Görünüm Seçenekleri
-| 06. Hesap & Analiz (Üst) | 06. Hesap & Analiz (Devam) | 07. Görünüm & Temalar |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/06_hesap_analiz.webp" width="260" alt="06. Vücut Hesaplama ve Analizler"/> | <img src="docs/screenshots/06_hesap_analiz_devam.webp" width="260" alt="06. Hesaplama Devamı BMR ve Makrolar"/> | <img src="docs/screenshots/07_gorunum_tema.webp" width="260" alt="07. Tema ve Renk Paleti"/> |
-| *VKİ, US Navy yağ oranı ve ideal kilo aralığı* | *BMR, TDEE kalori ihtiyacı, makro dağılımı ve hedef projeksiyonu* | *8 uyumlu renk paleti (Zümrüt, Gece Mavisi, Turuncu...) ve Koyu Mod* |
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33.33%" align="center">06. Hesap & Analiz (Üst)</th>
+      <th width="33.33%" align="center">06. Hesap & Analiz (Devam)</th>
+      <th width="33.33%" align="center">07. Görünüm & Temalar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/06_hesap_analiz.webp" width="240" alt="06. Vücut Hesaplama ve Analizler" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>VKİ, US Navy yağ oranı ve ideal kilo aralığı</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/06_hesap_analiz_devam.webp" width="240" alt="06. Hesaplama Devamı BMR ve Makrolar" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>BMR, TDEE kalori ihtiyacı, makro dağılımı ve hedef projeksiyonu</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/07_gorunum_tema.webp" width="240" alt="07. Tema ve Renk Paleti" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>8 uyumlu renk paleti (Zümrüt, Gece Mavisi, Turuncu...) ve Koyu Mod</i></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### ⚙️ 4. Dil Desteği & Ayarlar
-| 08. Çoklu Dil Desteği | 09. Ayarlar & Bildirimler | 09. Ayarlar (Devam & Excel) |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/08_dil_secimi.webp" width="260" alt="08. 16 Dil Seçimi"/> | <img src="docs/screenshots/09_ayarlar.webp" width="260" alt="09. Ayarlar ve Hatırlatıcılar"/> | <img src="docs/screenshots/09_ayarlar_devam.webp" width="260" alt="09. Excel ve Veri Yönetimi"/> |
-| *16 uluslararası dil desteği, ülke bayrakları ve anında değişim* | *Sabah ve akşam tartı hatırlatıcı bildirim saatleri* | *Tek tıkla Excel (.xlsx) ihracı ve yerel veri yönetimi* |
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33.33%" align="center">08. Çoklu Dil Desteği</th>
+      <th width="33.33%" align="center">09. Ayarlar & Bildirimler</th>
+      <th width="33.33%" align="center">09. Ayarlar (Devam & Excel)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/08_dil_secimi.webp" width="240" alt="08. 16 Dil Seçimi" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>16 uluslararası dil desteği, ülke bayrakları ve anında değişim</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/09_ayarlar.webp" width="240" alt="09. Ayarlar ve Hatırlatıcılar" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Sabah ve akşam tartı hatırlatıcı bildirim saatleri</i></sub>
+      </td>
+      <td width="33.33%" align="center" valign="top">
+        <img src="docs/screenshots/09_ayarlar_devam.webp" width="240" alt="09. Excel ve Veri Yönetimi" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <br/><br/>
+        <sub><i>Tek tıkla Excel (.xlsx) ihracı ve yerel veri yönetimi</i></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
