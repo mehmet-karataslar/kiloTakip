@@ -25,7 +25,7 @@
 
 Uygulamanın hazır derlenmiş en güncel Android APK dosyasını doğrudan indirip kullanabilirsiniz:
 
-👉 **[📥 Kilo & Bel Takip v1.0.0 APK İndir (GitHub Releases)](https://github.com/mehmet-karataslar/kiloTakip/releases/download/v1.0.0/app-release.apk)**
+👉 **[📥 Kilo & Bel Takip v1.0.0 APK İndir (GitHub Releases)](https://github.com/mehmet-karataslar/kiloTakip/releases/download/v1.0.0/Kilo_Takip_v1.0.0.apk)**
 
 > *Not: İndirdikten sonra telefonunuzda "Bilinmeyen kaynaklardan yükle" iznini onaylayarak kurulumu saniyeler içinde tamamlayabilirsiniz.*
 
