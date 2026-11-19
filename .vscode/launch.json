@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Kilo Takip",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Kilo Takip (Telefonda)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "s49hgymbeubas86d"
+    },
+    {
+      "name": "Kilo Takip (Telefonda - Release)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "s49hgymbeubas86d",
+      "flutterMode": "release"
+    },
+    {
+      "name": "Kilo Takip (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    }
+  ]
+}
