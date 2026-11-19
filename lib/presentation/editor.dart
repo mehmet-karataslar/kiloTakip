@@ -592,7 +592,7 @@ class _WeightEditorState extends State<WeightEditor> {
                           TextFormField(
                             key: const Key('weight_input_field'),
                             controller: draft.weightController,
-                            autofocus: true,
+                            autofocus: false,
                             enabled: !busy,
                             textAlign: TextAlign.center,
                             style: TextStyle(
