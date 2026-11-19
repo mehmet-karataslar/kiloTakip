@@ -1,11 +1,11 @@
-# ⚖️ Kilo & Bel Takip (Weight & Waist Tracker)
+# ⚖️ Kilo & Bel Takip (FitTrack Pro)
 
 <p align="center">
-  <img src="assets/icon.png" width="110" alt="Kilo & Bel Takip Logo" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="assets/icon.png" width="120" alt="Kilo & Bel Takip Logo" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.18);" />
 </p>
 
 <p align="center">
-  <b>Kişisel hedeflerinize ulaşmanız için tasarlanmış modern, %100 çevrimdışı, gizlilik odaklı ve eksiksiz kilo ve vücut ölçümü takip uygulaması.</b>
+  <b>Kişisel hedeflerinize ulaşmanız için geliştirilmiş; modern, %100 çevrimdışı, gizlilik odaklı ve eksiksiz kilo, bel çevresi ve vücut analizi takip platformu.</b>
 </p>
 
 <p align="center">
@@ -14,153 +14,203 @@
   <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart" alt="Dart"></a>
   <a href="#"><img src="https://img.shields.io/badge/Veritaban%C4%B1-SQLite-003B57?logo=sqlite" alt="SQLite"></a>
   <a href="#"><img src="https://img.shields.io/badge/Diller-16%20Dil-FF6F00" alt="16 Dil Desteği"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Renk%20Paketi-8%20Palet-00897B" alt="8 Renk Paleti"></a>
   <a href="#"><img src="https://img.shields.io/badge/Gizlilik-%25100%20%C3%87evrimd%C4%B1%C5%9F%C4%B1-4CAF50" alt="Çevrimdışı"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lisans-MIT-blue" alt="Lisans"></a>
 </p>
 
 ---
 
-## 📥 Hazır APK İndir
-Uygulamayı hemen Android cihazınıza yüklemek için en güncel kararlı sürümü indirin:
-👉 **[Kilo & Bel Takip v1.0.0 APK İndir (GitHub Release)](https://github.com/mehmet-karataslar/kiloTakip/releases/latest/download/app-release.apk)**
+## 🚀 Hızlı İndir & Kur (APK)
+
+Uygulamanın hazır derlenmiş en güncel Android APK dosyasını doğrudan indirip kullanabilirsiniz:
+
+👉 **[📥 Kilo & Bel Takip v1.0.0 APK İndir (GitHub Releases)](https://github.com/mehmet-karataslar/kiloTakip/releases/latest/download/app-release.apk)**
+
+> *Not: İndirdikten sonra telefonunuzda "Bilinmeyen kaynaklardan yükle" iznini onaylayarak kurulumu saniyeler içinde tamamlayabilirsiniz.*
 
 ---
 
-## 🌟 Öne Çıkan Özellikler
+## 🎬 Sosyal Medya & Reels Video Senaryosu (Tanıtım Kılavuzu)
 
-### 1. ⚖️ Kilo & Bel Çevresi Takibi
-* **Sabah & Akşam Ayrımı:** Gün içindeki su tutumu ve metabolik dalgalanmaları net gözlemlemek için sabah ve akşam ölçümlerini ayrı ayrı kaydedin.
-* **Bel Ölçümü Entegrasyonu:** Yalnızca kilo değil, yağ yakımının en güvenilir göstergesi olan bel çevresi (cm/inç) ölçümlerinizi de kaydedin.
-* **Günlük Fark Analitiği:** Bir önceki güne göre kilo ve bel farkını anında renkli göstergelerle görün.
-* **Seri & Sadakat (Streak):** Düzenli tartılma alışkanlığı kazandıran motivasyon serisi sayacı.
-
-### 2. 📊 İnteraktif Grafikler & Karşılaştırmalar
-* **Dinamik Eğri Grafikleri:** Seçtiğiniz tarih aralığına göre (7 Gün, 30 Gün, 90 Gün, 1 Yıl, Tümü) kilonuzun seyrini izleyin.
-* **Sabah / Akşam Çift Sütun Grafiği:** Günün iki farklı vaktindeki dalgalanmaları yan yana karşılaştırın.
-* **Hedef Kilo Çizgisi:** Hedefinize ne kadar yaklaştığınızı grafik üzerinde referans çizgisiyle görün.
-
-### 3. 🧠 Kapsamlı Vücut Analizleri & Hesaplayıcılar
-* **VKİ (Vücut Kitle İndeksi):** DSÖ standartlarında kategori ve sağlıklı aralık gösterimi.
-* **İdeal Kilo Hesaplama:** Bilimsel formüllerle (Devine, Robinson, Hamwi) vücut yapınıza en uygun kilo aralığı.
-* **Vücut Yağ Oranı (BFP):** ABD Donanması (U.S. Navy) formülüyle boy, kilo ve bel çevresi üzerinden tahmini yağ oranı.
-* **BMR & TDEE:** Bazal Metabolizma Hızı ve günlük aktivite seviyenize göre yakılan kalori tahmini.
-* **Makro Besin Planlayıcı:** Kilo verme, koruma veya kas kazanma hedefinize göre günlük Protein, Karbonhidrat ve Yağ ihtiyacı gramajları.
-* **Hedef Projeksiyonu:** Mevcut ilerleme hızınıza göre hedef kilonuza ulaşacağınız tahmini tarihi hesaplayan simülatör.
-
-### 4. 💧 Akıllı Su Takibi
-* Günlük su tüketim hedefinizi belirleyin.
-* 250ml ve 500ml hızlı ekleme butonları ile kolayca su tüketiminizi kaydedin ve ilerleme halkasından takip edin.
-
-### 5. 🎨 8 Uyumlu Renk Paleti & Modern Temalar
-* Göz yormayan, birbiriyle uyumlu profesyonel renk paletleri:
-  * 🌿 **Zümrüt Yeşili (Emerald)**
-  * 🌌 **Gece Yarısı Mavisi (Midnight Blue)**
-  * 🌊 **Okyanus Ferahlığı (Ocean Teal)**
-  * 🌅 **Gün Batımı Turuncusu (Sunset Orange)**
-  * 🔘 **Antrasit & Çelik (Anthracite)**
-  * 🌳 **Orman Yeşili (Forest Green)**
-  * 💎 **Safir & Kobalt (Cobalt Sapphire)**
-  * 🍁 **Sonbahar & Bakır (Autumn Amber)**
-* **Karanlık (Amoled/Dark), Aydınlık (Light) ve Sistem Teması** tam uyumluluğu.
-
-### 6. 🌍 16 Uluslararası Dil Desteği
-* Uygulama içi tek tıkla dil değişimi:
-  * 🇹🇷 Türkçe, 🇬🇧 English, 🇩🇪 Deutsch, 🇪🇸 Español, 🇫🇷 Français, 🇮🇹 Italiano, 🇷🇺 Русский, 🇸🇦 العربية, 🇨🇳 中文, 🇯🇵 日本語, 🇰🇷 한국어, 🇮🇳 हिन्दी, 🇵🇹 Português, 🇳🇱 Nederlands, 🇵🇱 Polski, 🇺🇦 Українська.
-
-### 7. 🔒 %100 Çevrimdışı Güvenlik & Excel Dışa Aktarma
-* **Sıfır Bulut Bağımlılığı:** Verileriniz asla bir üçüncü parti sunucuya gönderilmez; tamamen cihazınızdaki yerel SQLite veritabanında saklanır.
-* **Excel (.xlsx) Raporlama:** Tüm tartı geçmişinizi, bel ölçümlerinizi, saatlerini ve notlarınızı Excel formatında tek tıkla dışa aktarın veya paylaşın.
-* **Özelleştirilebilir Bildirimler:** Sabah ve akşam tartılma saatleriniz için ayrı ayrı ayarlanabilen yerel bildirim altyapısı.
-
----
-
-## 📱 Ekran Görüntüleri ve Uygulama Akışı
-
-| 01. Gösterge Paneli | 02. Kilo & Bel Ekleme | 03. Grafikler & Kıyas |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/01_dashboard.png" width="260" alt="Ana Sayfa Gösterge Paneli"/> | <img src="docs/screenshots/02_kilo_bel_ekle.png" width="260" alt="Kilo ve Bel Ekleme"/> | <img src="docs/screenshots/03_grafikler.png" width="260" alt="Grafikler"/> |
-| *Günlük özet, farklar, su takibi ve mini grafik* | *Sabah/akşam, bel ölçüsü, etiketler ve notlar* | *Trend eğrisi ve sabah-akşam sütun grafikleri* |
-
-| 04. Geçmiş & Takvim | 05. Hedef & Raporlar | 06. Hesap & Analizler |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/04_gecmis.png" width="260" alt="Geçmiş ve Takvim"/> | <img src="docs/screenshots/05_raporlar.png" width="260" alt="Raporlar"/> | <img src="docs/screenshots/06_hesap_analiz.png" width="260" alt="Vücut Analizleri"/> |
-| *Tüm kayıtlar, bel rozetleri ve düzenleme* | *Hedef tamamlama halkası ve haftalık istatistikler* | *VKİ, yağ oranı, BMR/TDEE ve makrolar* |
-
-| 07. Tema & Renk Paleti | 08. Çoklu Dil Desteği | 09. Ayarlar & Yedekleme |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/07_gorunum_tema.png" width="260" alt="Tema Seçimi"/> | <img src="docs/screenshots/08_dil_secimi.png" width="260" alt="Dil Seçimi"/> | <img src="docs/screenshots/09_ayarlar.png" width="260" alt="Ayarlar"/> |
-| *8 uyumlu renk paleti ve açık/koyu mod* | *16 uluslararası dil ve bayrak seçimi* | *Çift hatırlatıcı ve Excel dışa aktarma* |
-
----
-
-## 🏗️ Mimari ve Proje Yapısı
-
-Uygulama, **Clean Architecture** prensiplerine uygun, sürdürülebilir ve test edilebilir katmanlı mimari ile geliştirilmiştir:
+Bu proje sosyal medyada (Instagram Reels, TikTok, YouTube Shorts) tanıtılmak üzere hazır kurgulanmıştır. Videonuzu çekerken aşağıdaki sahne akışını birebir uygulayabilirsiniz:
 
 ```text
-lib/
-├── core/
-│   ├── l10n/              # 16 dilin yerelleştirme dosyaları ve çeviri anahtarları
-│   ├── theme/             # 8 uyumlu renk paleti ve dinamik ThemeData üreticileri
-│   └── constants/         # Sabitler ve yardımcı fonksiyonlar
-├── data/
-│   ├── local/             # SQLite veritabanı kurulumu (database_helper.dart)
-│   ├── models/            # WeightEntry, UserGoal, WaterEntry veri modelleri
-│   └── repositories/      # Veri erişim katmanı implementasyonları
-├── domain/
-│   ├── calculations/      # VKİ, Yağ Oranı, BMR, TDEE ve Makro hesap motoru
-│   └── usecases/          # İş mantığı ve veri işleme fonksiyonları
-└── presentation/
-    ├── dashboard/         # Ana gösterge paneli ve özet kartları
-    ├── editor/            # Kilo ve bel ölçüsü ekleme alt sayfası (BottomSheet)
-    ├── charts/            # fl_chart tabanlı çizgi ve çift sütun grafikleri
-    ├── history/           # Geçmiş kayıt listesi ve takvim bileşeni
-    ├── reports/           # Detaylı istatistik ve hedef analiz ekranı
-    ├── calculator/        # Vücut kitle, kalori ve yağ oranı hesaplama aracı
-    ├── theme/             # Tema ve renk paleti seçici modal
-    └── settings/          # Ayarlar, hatırlatıcılar ve Excel export sayfası
+⏱️ 00:00 - 00:03 [Kanca / Hook]: 
+"Tartıda kilonuz aynı kalıyor diye pes mi ediyorsunuz? Aslında yağ yakıyor olabilirsiniz!"
+(Görsel: Telefon elde, uygulama ana ekranı gösterilir).
+
+⏱️ 00:03 - 00:10 [Problem & Çözüm]:
+"Sadece kilo yetmez; gerçek değişimi bel ölçüsü gösterir. İşte hem kilo hem bel çevrenizi sabah/akşam takip eden yeni nesil uygulama!"
+(Görsel: 01_dashboard.png -> 02_kilo_bel_ekle.png).
+
+⏱️ 00:10 - 00:20 [Detaylı Ölçüm & Kolaylık]:
+"Sabah aç karnına veya akşam tartınızı tek tıkla kaydedin. +0.1 veya +0.5 kg hızlı butonları, bel ölçüsü ve su sayacıyla saniyeler içinde gününüzü tamamlayın!"
+(Görsel: Hızlı su ekleme ve tartı kaydı animasyonu).
+
+⏱️ 00:20 - 00:32 [Bilimsel Analizler & Grafikler]:
+"US Navy formülüyle vücut yağ oranı, VKİ, BMR, TDEE kalori ihtiyacı ve makrolarınız hazır! Üstelik sabah ve akşam kilonuzu yan yana kıyaslayan çift sütunlu grafikler."
+(Görsel: 03_grafikler.png ve 06_hesap_analiz.png).
+
+⏱️ 00:32 - 00:42 [Tasarım & Gizlilik Gücü]:
+"Göz yormayan 8 farklı uyumlu renk paketi, koyu tema, 16 uluslararası dil ve sıfır internet bağımlılığı! Tüm veriler sadece sizin telefonunuzda saklanır, asla sunucuya gitmez."
+(Görsel: 07_gorunum_tema.png ve 08_dil_secimi.png hızla geçiş yapar).
+
+⏱️ 00:42 - 00:50 [Harekete Geçirici Çağrı / CTA]:
+"Verilerinizi tek tıkla Excel'e aktarın, hedefinize sağlıkla ulaşın. APK linki bio'da ve GitHub'da, hemen ücretsiz deneyin!"
 ```
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler & Kütüphaneler
+## 📸 Ekran Görüntüleri Sırası ve Galeri
 
-* **Framework:** [Flutter](https://flutter.dev) (Dart 3.x)
-* **Yerel Veritabanı:** [`sqflite`](https://pub.dev/packages/sqflite) & [`path_provider`](https://pub.dev/packages/path_provider)
-* **Grafik Motoru:** [`fl_chart`](https://pub.dev/packages/fl_chart)
-* **Durum Yönetimi:** [`provider`](https://pub.dev/packages/provider) & `ChangeNotifier`
-* **Yerel Bildirimler:** [`flutter_local_notifications`](https://pub.dev/packages/flutter_local_notifications)
-* **Dışa Aktarma & Excel:** [`excel`](https://pub.dev/packages/excel) & [`share_plus`](https://pub.dev/packages/share_plus)
-* **Tercihler & Depolama:** [`shared_preferences`](https://pub.dev/packages/shared_preferences)
+Aşağıdaki ekran görüntüleri uygulamanın baştan sona kullanıcı deneyimini temsil etmektedir:
+
+| 01. Gösterge Paneli | 02. Kilo & Bel Ekleme | 03. Grafikler & Kıyas |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/01_dashboard.png" width="260" alt="01. Ana Sayfa Gösterge Paneli"/> | <img src="docs/screenshots/02_kilo_bel_ekle.png" width="260" alt="02. Kilo ve Bel Ekleme"/> | <img src="docs/screenshots/03_grafikler.png" width="260" alt="03. Çizgi ve Çift Bar Grafikler"/> |
+| *Günlük tartı, bel farkı, su sayacı, streak ve 7 günlük sparkline* | *Sabah/akşam, hassas kg/cm seçimi, duygu etiketleri ve not alanı* | *Trend eğrisi ve sabah-akşam ölçümlerini yan yana kıyaslayan grafik* |
+
+| 04. Geçmiş & Takvim | 05. Hedef & Raporlar | 06. Hesap & Analizler |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/04_gecmis.png" width="260" alt="04. Geçmiş Kayıtlar ve Takvim"/> | <img src="docs/screenshots/05_raporlar.png" width="260" alt="05. Hedef ve Rapor Ekranı"/> | <img src="docs/screenshots/06_hesap_analiz.png" width="260" alt="06. Vücut Hesaplama ve Analizler"/> |
+| *Kronolojik ölçüm listesi, bel rozetleri, takvim görünümü ve düzenleme* | *Kalan kilo halkası, haftalık/aylık tempo ve etiket analizleri* | *VKİ, US Navy yağ oranı, BMR, TDEE ve makro besin planlayıcı* |
+
+| 07. Görünüm & Temalar | 08. Çoklu Dil Desteği | 09. Ayarlar & Yedekleme |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/07_gorunum_tema.png" width="260" alt="07. Tema ve Renk Paleti"/> | <img src="docs/screenshots/08_dil_secimi.png" width="260" alt="08. 16 Dil Seçimi"/> | <img src="docs/screenshots/09_ayarlar.png" width="260" alt="09. Ayarlar ve Excel Dışa Aktarma"/> |
+| *8 uyumlu renk paleti (Zümrüt, Gece Mavisi, Turuncu...) ve Koyu Mod* | *16 uluslararası dil desteği, ülke bayrakları ve anında değişim* | *Sabah/akşam tartı bildirimleri ve tek tıkla Excel (.xlsx) ihracı* |
+
+---
+
+## 💎 Neden Bu Uygulama? (Temel Özellikler)
+
+### 1. ⚖️ Çift Zamanlı Kilo ve Bel Takibi (Sabah & Akşam)
+* İnsan vücudu gün içerisinde tükettiği su, sodyum ve besinlere bağlı olarak 1-2.5 kg arasında dalgalanır.
+* Uygulama, **Sabah** (aç karnına ve en doğru metabolik kilo) ile **Akşam** (gün sonu ağırlığı) ölçümlerini birbirinden ayırır.
+* **Bel Ölçümü Entegrasyonu:** Kas kazanıp yağ yaktığınız dönemlerde kilonuz sabit kalabilir. Bel çevrenizdeki incelmeyi takip ederek motivasyonunuzu kaybetmezsiniz.
+
+### 2. 💧 Entegre Su Takip Sayacı
+* Günlük hidrasyon seviyenizi zahmetsizce kaydedin.
+* +250 ml (bardak) ve +500 ml (şişe) hızlı butonları ile her su içtiğinizde tek dokunuşla ekleyin.
+* Dairesel su ilerleme halkasıyla günlük hedefinize ne kadar yaklaştığınızı görün.
+
+### 3. 📊 İnteraktif Grafik Motoru & Karşılaştırmalı Analiz
+* **fl_chart** kütüphanesiyle güçlendirilmiş yumuşak geçişli eğri grafikleri.
+* **Çift Sütunlu Bar Grafik:** Sabah tartınızı ve akşam tartınızı gün gün yan yana koyarak vücudunuzun günlük ödem döngüsünü görselleştirir.
+* **Esnek Filtreler:** 7 Günlük, 30 Günlük, 90 Günlük, 1 Yıllık veya Tüm Zamanlar görünümü.
+
+### 4. 🧠 Bilimsel Sağlık & Vücut Analiz Laboratuvarı
+* **VKİ (Vücut Kitle İndeksi):** DSÖ (Dünya Sağlık Örgütü) aralıklarıyla kilonuzun kategorisini belirleyin.
+* **İdeal Kilo Hesaplama:** Hamwi, Devine ve Robinson formülleriyle kemik ve boy yapınıza en uygun ağırlık aralığı.
+* **Vücut Yağ Oranı (US Navy Formülü):** Pahalı akıllı tartılara ihtiyaç duymadan, sadece boy, boyun, bel ve kalça mezura ölçüleriyle gerçekçi yağ yüzdesi hesaplaması.
+* **BMR & TDEE (Kalori İhtiyacı):** Harris-Benedict & Mifflin-St Jeor denklemleriyle dinlenme durumunda harcanan enerji ve aktivite seviyenize göre yakılan kalori.
+* **Makro Besin Dağılımı:** Kilo verme, koruma veya kas kazanma hedefinize göre günlük kaç gram Protein, Karbonhidrat ve Sağlıklı Yağ almanız gerektiği.
+* **Hedef Projeksiyon Simülatörü:** Güncel gidişatınıza göre hedef kilonuza hangi tarihte ulaşacağınızı öngörür.
+
+### 5. 🎨 8 Özenle Seçilmiş Renk Paleti & Koyu Mod
+Göz sağlığınızı ve estetik deneyiminizi en üst seviyede tutmak için birbiriyle tam kontrast uyumlu 8 renk paleti:
+1. 🌿 **Zümrüt Yeşili (Emerald):** Doğal, ferah ve tazeleyici yeşil tonları.
+2. 🌌 **Gece Yarısı Mavisi (Midnight Blue):** Derin lacivert ve odaklanmayı artıran koyu mavi.
+3. 🌊 **Okyanus Ferahlığı (Ocean Teal):** Dingin ve modern turkuaz-yeşil uyumu.
+4. 🌅 **Gün Batımı Turuncusu (Sunset Orange):** Enerjik, motive edici sıcak tonlar.
+5. 🔘 **Antrasit & Çelik (Anthracite):** Minimalist, sade ve şık gri-siyah tonları.
+6. 🌳 **Orman Yeşili (Forest Green):** Sağlığı ve sporu temsil eden koyu yeşil tonlar.
+7. 💎 **Safir & Kobalt (Cobalt Sapphire):** Profesyonel ve asil mavi palet.
+8. 🍁 **Sonbahar & Bakır (Autumn Amber):** Sıcak, yumuşak kahve-bakır kontrastları.
+* **Koyu Mod (Dark / AMOLED):** Gece tartılmalarında gözünüzü almayan tam siyah arayüz.
+
+### 6. 🌍 16 Uluslararası Dil Desteği
+Uygulama dilini cihazınızdan bağımsız olarak anında değiştirebilirsiniz:
+* 🇹🇷 Türkçe, 🇬🇧 English, 🇩🇪 Deutsch, 🇪🇸 Español, 🇫🇷 Français, 🇮🇹 Italiano, 🇷🇺 Русский, 🇸🇦 العربية, 🇨🇳 中文, 🇯🇵 日本語, 🇰🇷 한국어, 🇮🇳 हिन्दी, 🇵🇹 Português, 🇳🇱 Nederlands, 🇵🇱 Polski, 🇺🇦 Українська.
+
+### 7. 🔒 %100 Çevrimdışı Gizlilik & Excel İhracı
+* **Sıfır Bulut Bağımlılığı:** Verileriniz asla yabancı bir sunucuya gitmez, internetiniz olmasa dahi kusursuz çalışır.
+* **SQLite Veritabanı:** Tüm tartı, bel ve su geçmişiniz cihazınızın güvenli yerel belleğinde saklanır.
+* **Excel (.xlsx) Dışa Aktarma:** Diyetisyeninizle veya doktorunuzla paylaşmak için tüm geçmişi tek dokunuşla biçimlendirilmiş bir Excel tablosu olarak indirin.
+* **Akıllı Bildirimler:** Sabah ve akşam tartılmayı unutmamanız için kişiselleştirilebilir yerel hatırlatıcılar.
+
+---
+
+## 📱 Ekran Görüntüsü Dosyaları Kılavuzu
+
+Kendi telefonunuzdan ekran görüntüsü alıp projeye eklemek isterseniz, dosyaları aşağıdaki isimlerle `docs/screenshots/` klasörüne kaydetmeniz yeterlidir:
+
+| Dosya Adı | Hangi Ekrandan Alınmalı? |
+|:---|:---|
+| `docs/screenshots/01_dashboard.png` | **Ana Sayfa:** Günlük kilo, fark kartı, su sayacı ve mini grafik açıkken. |
+| `docs/screenshots/02_kilo_bel_ekle.png` | **Kilo Ekleme Modalı:** Alttaki (+) butonuna basıldığında açılan pencere. |
+| `docs/screenshots/03_grafikler.png` | **Grafikler Sekmesi:** Çizgi ve sabah-akşam sütun grafiklerinin bulunduğu ekran. |
+| `docs/screenshots/04_gecmis.png` | **Geçmiş Sekmesi:** Tarih sırasıyla dizilmiş ölçüm kartları ve bel etiketleri. |
+| `docs/screenshots/05_raporlar.png` | **Raporlar Sekmesi:** Dairesel hedef ilerleme halkası ve haftalık istatistikler. |
+| `docs/screenshots/06_hesap_analiz.png` | **Hesap Sekmesi:** VKİ, yağ oranı, BMR ve makro besin kartları. |
+| `docs/screenshots/07_gorunum_tema.png` | **Tema Menüsü:** Üstteki tema butonuna basılınca açılan 8 renk paleti listesi. |
+| `docs/screenshots/08_dil_secimi.png` | **Dil Menüsü:** Üstteki dünya/dil butonuna basılınca açılan bayraklı dil listesi. |
+| `docs/screenshots/09_ayarlar.png` | **Ayarlar Sekmesi:** Hatırlatıcı bildirim saatleri ve Excel aktarım butonu. |
+
+---
+
+## 🏗️ Proje Mimarisi & Kod Standartları
+
+Bu proje **Clean Architecture** prensipleriyle, modüler ve yüksek performanslı olarak inşa edilmiştir:
+
+```text
+lib/
+├── main.dart                      # Uygulama başlangıç noktası, tema & dil dinleyicileri
+├── app/
+│   └── app_theme.dart             # 8 Renk Paleti tanımları, açık/koyu mod ThemeData üreticisi
+├── data/
+│   └── weight_repository.dart     # SQLite yerel veritabanı motoru ve CRUD operasyonları
+├── domain/
+│   └── measurements.dart          # Kilo, bel, su veri modelleri ve istatistik hesaplama motoru
+├── l10n/
+│   └── app_localizations.dart     # 16 dilin çevirileri, yerelleştirme anahtarları ve bayraklar
+├── presentation/
+│   ├── common.dart                # Dashboard özet kartları, su takibi ve ortak widget'lar
+│   ├── editor.dart                # Kilo ve bel ölçüsü giriş paneli (BottomSheet)
+│   ├── charts.dart                # fl_chart tabanlı dinamik çizgi ve çubuk grafikleri
+│   ├── records.dart               # Ölçüm geçmişi, takvim bileşeni ve kart filtreleri
+│   ├── reports.dart               # Kalan kilo, haftalık/aylık tempo ve hedef raporları
+│   ├── calculators.dart           # VKİ, US Navy yağ oranı, BMR, TDEE ve makro motoru
+│   └── settings.dart              # Ayarlar, bildirim saatleri ve tercihler
+├── services/
+│   ├── reminders.dart             # Yerel sabah ve akşam hatırlatıcı bildirim servisi
+│   └── workbook.dart              # Excel (.xlsx) dosya üretimi ve paylaşım entegrasyonu
+└── state/
+    └── weight_store.dart          # ChangeNotifier tabanlı reaktif durum yönetimi
+```
 
 ---
 
 ## 💻 Geliştirici Kurulumu
 
-Projeyi yerel bilgisayarınızda derleyip çalıştırmak için:
+Projeyi yerel ortamınızda çalıştırmak veya geliştirmek için:
 
-1. **Depoyu klonlayın:**
+1. **Depoyu Klonlayın:**
    ```bash
    git clone https://github.com/mehmet-karataslar/kiloTakip.git
    cd kiloTakip
    ```
 
-2. **Bağımlılıkları yükleyin:**
+2. **Gereksinimleri Yükleyin:**
    ```bash
    flutter pub get
    ```
 
-3. **Uygulamayı çalıştırın (Emülatör veya Fiziksel Cihaz):**
+3. **Cihazınızda Çalıştırın:**
    ```bash
    flutter run
    ```
 
-4. **Release APK Derleme:**
+4. **Release APK Üretimi:**
    ```bash
    flutter build apk --release
    ```
-   *Oluşan dosya: `build/app/outputs/flutter-apk/app-release.apk`*
+   *Çıktı konumu: `build/app/outputs/flutter-apk/app-release.apk`*
 
 ---
 
-## 📄 Lisans
-Bu proje kişisel sağlık ve fitness takibi amacıyla geliştirilmiştir. Tüm hakları saklıdır.
+## 📜 Lisans
+
+Bu proje kişisel sağlık ve fitness takibi amacıyla geliştirilmiştir. Açık kaynak kodlu ve özgürce geliştirilmeye açıktır.
+Tüm hakları saklıdır © 2026.
