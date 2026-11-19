@@ -31,38 +31,6 @@ Uygulamanın hazır derlenmiş en güncel Android APK dosyasını doğrudan indi
 
 ---
 
-## 🎬 Sosyal Medya & Reels Video Senaryosu (Tanıtım Kılavuzu)
-
-Bu proje sosyal medyada (Instagram Reels, TikTok, YouTube Shorts) tanıtılmak üzere hazır kurgulanmıştır. Videonuzu çekerken aşağıdaki sahne akışını birebir uygulayabilirsiniz:
-
-```text
-⏱️ 00:00 - 00:03 [Kanca / Hook]: 
-"Tartıda kilonuz aynı kalıyor diye pes mi ediyorsunuz? Aslında yağ yakıyor olabilirsiniz!"
-(Görsel: Telefon elde, uygulama ana ekranı gösterilir).
-
-⏱️ 00:03 - 00:10 [Problem & Çözüm]:
-"Sadece kilo yetmez; gerçek değişimi bel ölçüsü gösterir. İşte hem kilo hem bel çevrenizi sabah/akşam takip eden yeni nesil uygulama!"
-(Görsel: 01_dashboard.png -> 02_kilo_bel_ekle.png).
-
-⏱️ 00:10 - 00:20 [Detaylı Ölçüm & Kolaylık]:
-"Sabah aç karnına veya akşam tartınızı tek tıkla kaydedin. +0.1 veya +0.5 kg hızlı butonları, bel ölçüsü ve su sayacıyla saniyeler içinde gününüzü tamamlayın!"
-(Görsel: Hızlı su ekleme ve tartı kaydı animasyonu).
-
-⏱️ 00:20 - 00:32 [Bilimsel Analizler & Grafikler]:
-"US Navy formülüyle vücut yağ oranı, VKİ, BMR, TDEE kalori ihtiyacı ve makrolarınız hazır! Üstelik sabah ve akşam kilonuzu yan yana kıyaslayan çift sütunlu grafikler."
-(Görsel: 03_grafikler.png, 06_hesap_analiz.png ve 06_hesap_analiz_devam.png).
-
-⏱️ 00:32 - 00:42 [Tasarım & Gizlilik Gücü]:
-"Göz yormayan 8 farklı uyumlu renk paketi, koyu tema, 16 uluslararası dil ve sıfır internet bağımlılığı! Tüm veriler sadece sizin telefonunuzda saklanır, asla sunucuya gitmez."
-(Görsel: 07_gorunum_tema.png ve 08_dil_secimi.png hızla geçiş yapar).
-
-⏱️ 00:42 - 00:50 [Harekete Geçirici Çağrı / CTA]:
-"Verilerinizi tek tıkla Excel'e aktarın, hedefinize sağlıkla ulaşın. APK linki bio'da ve GitHub'da, hemen ücretsiz deneyin!"
-(Görsel: 09_ayarlar_devam.png Excel paylaşım alanı gösterilir).
-```
-
----
-
 ## 📸 Ekran Görüntüleri Sırası ve Galeri
 
 Aşağıdaki ekran görüntüleri uygulamanın baştan sona tüm akışını ve devam sayfalarını temsil etmektedir:
