@@ -53,7 +53,7 @@ Aşağıdaki ekran görüntüleri uygulamanın baştan sona tüm akışını ve 
         <sub><i>Günlük tartı, bel farkı, su sayacı, streak ve 7 günlük sparkline</i></sub>
       </td>
       <td width="33.33%" align="center" valign="top">
-        <img src="docs/screenshots/02_kilo_bel_ekle.webp" width="240" alt="02. Kilo ve Bel Ekleme" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+        <img src="docs/screenshots/02_kilo_kaydet.webp" width="240" alt="02. Kilo ve Bel Ekleme" style="max-width: 100%; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
         <br/><br/>
         <sub><i>Sabah/akşam, hassas kg/cm seçimi, duygu etiketleri ve not alanı</i></sub>
       </td>
@@ -217,7 +217,7 @@ Ekran görüntüleri `docs/screenshots/` klasöründe aşağıdaki yapıyla yer 
 | Dosya Adı | Açıklama |
 |:---|:---|
 | `docs/screenshots/01_dashboard.webp` | **Ana Sayfa:** Günlük kilo, fark kartı, su sayacı ve 7 günlük mini trend grafiği. |
-| `docs/screenshots/02_kilo_bel_ekle.webp` | **Kilo Ekleme Modalı:** Sabah/Akşam seçimi, kilo ve bel ölçüsü, duygu/durum etiketleri. |
+| `docs/screenshots/02_kilo_kaydet.webp` | **Kilo Ekleme Modalı:** Sabah/Akşam seçimi, kilo ve bel ölçüsü, duygu/durum etiketleri. |
 | `docs/screenshots/03_grafikler.webp` | **Grafikler:** Çizgi grafik ve sabah-akşam ölçümlerini yan yana gösteren çift bar grafik. |
 | `docs/screenshots/04_gecmis.webp` | **Geçmiş (Üst Kısım):** Tarih sırasıyla listelenen ölçüm kartları ve bel ölçüsü rozetleri. |
 | `docs/screenshots/04_gecmis_devam.webp` | **Geçmiş (Devamı):** Ölçüm kartlarının devamı, notlar, filtreler ve takvim görünümü. |
